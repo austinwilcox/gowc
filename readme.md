@@ -24,3 +24,6 @@ This will produce:
 ```
 
 and just like calling ```gowc test.txt``` you can supply the command line arguments to filter out what you would like.
+
+## Purpose
+The application is built in an effort to better understand how to write applications in GO.
