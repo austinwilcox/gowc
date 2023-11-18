@@ -12,8 +12,11 @@ will produce output like:
 
 You can supply the following flags to gather misc. details
 ```-c: number of bytes in a file```
+
 ```-l: number of lines in a file```
+
 ```-w: number of words in a file```
+
 ```-m: number of characters in utf8 in a file```
 
 The program will also work by piping input it like so:
